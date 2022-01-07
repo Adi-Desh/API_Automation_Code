@@ -1,0 +1,9 @@
+{
+"userName": "test_#444", 
+"emailAddress": "test@gmail.com",
+"number": {
+"contryCode": "+91",
+"phoneNumber": 0123456789
+},
+"password": "test@test="
+}
