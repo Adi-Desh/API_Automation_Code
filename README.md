@@ -1,2 +1,2 @@
 # API_Automation_Code
-Rest Assured Project for API Automation
+Rest Assured Solution for API Automation Code Problem
